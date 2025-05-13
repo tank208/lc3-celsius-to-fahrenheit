@@ -36,9 +36,9 @@ The program:
 
 ##  How to Run
 
-This program is designed to run in the **Java-based LC-3 Simulator**, provided here:
+This program is designed to run using **LC3Tools**, the modern command-line and GUI LC-3 simulator:
 
- [https://highered.mheducation.com/sites/0072467509/student_view0/lc-3_simulator.html](https://highered.mheducation.com/sites/0072467509/student_view0/lc-3_simulator.html)
+[https://github.com/jrincayc/LC3tools](https://github.com/jrincayc/LC3tools)
 
 1. Open the LC-3 Simulator
 2. Load the file: `celsius_to_fahrenheit_final_commented_with_subs.asm`
@@ -47,6 +47,7 @@ This program is designed to run in the **Java-based LC-3 Simulator**, provided h
 5. Run the program (`Simulate → Run`)
 6. Input two digits when prompted (e.g., `3` and `0` for 30°C)
 7. The program will output the Fahrenheit result
+
 
 ---
 
