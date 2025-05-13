@@ -41,7 +41,7 @@ This program is designed to run using **LC3Tools**, the modern command-line and 
 [https://github.com/jrincayc/LC3tools](https://github.com/jrincayc/LC3tools)
 
 1. Open the LC-3 Simulator
-2. Load the file: `celsius_to_fahrenheit_final_commented_with_subs.asm`
+2. Load the file: `celsius_to_fahrenheit_final.asm`
 3. Assemble the program (`Assemble → Assemble All`)
 4. Set PC to `x3000` if not already set
 5. Run the program (`Simulate → Run`)
