@@ -53,7 +53,7 @@ This program is designed to run using **LC3Tools**, the modern command-line and 
 
 ##  Special Requirements
 
-- Must be run in the **Java LC-3 Simulator**
+- Must be run in **LC3Tools** — the modern LC-3 simulator
 - Only works with numeric input (`00` to `99`) — no input validation is provided
 - Output is always in 3-digit format (e.g., `032`, `086`, `111`)
 
