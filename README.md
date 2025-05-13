@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 Project Description
+##  Project Description
 
 This LC-3 assembly program converts a two-digit Celsius temperature (00–99) into Fahrenheit using the formula:
 
@@ -22,7 +22,7 @@ The program:
 
 ---
 
-## 🧠 Features Demonstrated
+##  Features Demonstrated
 
 - Subroutine usage with `JSR` and `RET`
 - Manual ASCII-to-integer conversion
@@ -34,11 +34,11 @@ The program:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 This program is designed to run in the **Java-based LC-3 Simulator**, provided here:
 
-👉 [https://highered.mheducation.com/sites/0072467509/student_view0/lc-3_simulator.html](https://highered.mheducation.com/sites/0072467509/student_view0/lc-3_simulator.html)
+ [https://highered.mheducation.com/sites/0072467509/student_view0/lc-3_simulator.html](https://highered.mheducation.com/sites/0072467509/student_view0/lc-3_simulator.html)
 
 1. Open the LC-3 Simulator
 2. Load the file: `celsius_to_fahrenheit_final_commented_with_subs.asm`
@@ -50,7 +50,7 @@ This program is designed to run in the **Java-based LC-3 Simulator**, provided h
 
 ---
 
-## ⚙️ Special Requirements
+##  Special Requirements
 
 - Must be run in the **Java LC-3 Simulator**
 - Only works with numeric input (`00` to `99`) — no input validation is provided
@@ -58,7 +58,7 @@ This program is designed to run in the **Java-based LC-3 Simulator**, provided h
 
 ---
 
-## 📚 What I Learned
+##  What I Learned
 
 This project involved debugging and understanding:
 - How to simulate math operations without floating-point support
@@ -69,7 +69,7 @@ This project involved debugging and understanding:
 
 ---
 
-## ✅ Final Notes
+##  Final Notes
 
 This project was written and debugged over two months. Every line of logic was hand-built, corrected, and verified through repeated testing. It is stable, accurate, and designed to reflect mastery of the LC-3 as taught in this course.
 
